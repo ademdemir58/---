@@ -1,0 +1,84 @@
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas\Arkadas\bin\Debug\data.mdf
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas\Arkadas\bin\Debug\data_log.ldf
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas\Arkadas\bin\Debug\Arkadas.exe.config
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas\Arkadas\bin\Debug\Arkadas.exe
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas\Arkadas\bin\Debug\Arkadas.pdb
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas\Arkadas\obj\Debug\Arkadas.csprojResolveAssemblyReference.cache
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas\Arkadas\obj\Debug\Arkadas.Form1.resources
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas\Arkadas\obj\Debug\Arkadas.Properties.Resources.resources
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas\Arkadas\obj\Debug\Arkadas.csproj.GenerateResource.Cache
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas\Arkadas\obj\Debug\Arkadas.csproj.CoreCompileInputs.cache
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas\Arkadas\obj\Debug\Arkadas.exe
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas\Arkadas\obj\Debug\Arkadas.pdb
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya\Arkadas\bin\Debug\data.mdf
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya\Arkadas\bin\Debug\data_log.ldf
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya\Arkadas\bin\Debug\Arkadas.exe.config
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya\Arkadas\bin\Debug\Arkadas.exe
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya\Arkadas\bin\Debug\Arkadas.pdb
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya\Arkadas\obj\Debug\Arkadas.csprojResolveAssemblyReference.cache
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya\Arkadas\obj\Debug\Arkadas.Form1.resources
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya\Arkadas\obj\Debug\Arkadas.Properties.Resources.resources
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya\Arkadas\obj\Debug\Arkadas.csproj.GenerateResource.Cache
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya\Arkadas\obj\Debug\Arkadas.csproj.CoreCompileInputs.cache
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya\Arkadas\obj\Debug\Arkadas.exe
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya\Arkadas\obj\Debug\Arkadas.pdb
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya\Arkadas\bin\Debug\data.mdf
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya\Arkadas\bin\Debug\data_log.ldf
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya\Arkadas\bin\Debug\Arkadas.exe.config
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya\Arkadas\bin\Debug\Arkadas.exe
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya\Arkadas\bin\Debug\Arkadas.pdb
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.csprojResolveAssemblyReference.cache
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.Form1.resources
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.Properties.Resources.resources
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.csproj.GenerateResource.Cache
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.csproj.CoreCompileInputs.cache
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.exe
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.pdb
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya\Arkadas\bin\Debug\data.mdf
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya\Arkadas\bin\Debug\data_log.ldf
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya\Arkadas\bin\Debug\Arkadas.exe.config
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya\Arkadas\bin\Debug\Arkadas.exe
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya\Arkadas\bin\Debug\Arkadas.pdb
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.csprojResolveAssemblyReference.cache
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.Form1.resources
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.Properties.Resources.resources
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.csproj.GenerateResource.Cache
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.csproj.CoreCompileInputs.cache
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.exe
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.pdb
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya\Arkadas\bin\Debug\data.mdf
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya\Arkadas\bin\Debug\data_log.ldf
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya\Arkadas\bin\Debug\Arkadas.exe.config
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya\Arkadas\bin\Debug\Arkadas.exe
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya\Arkadas\bin\Debug\Arkadas.pdb
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.csprojResolveAssemblyReference.cache
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.Form1.resources
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.Properties.Resources.resources
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.csproj.GenerateResource.Cache
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.csproj.CoreCompileInputs.cache
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.exe
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.pdb
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\bin\Debug\data.mdf
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\bin\Debug\data_log.ldf
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\bin\Debug\Arkadas.exe.config
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\bin\Debug\Arkadas.exe
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\bin\Debug\Arkadas.pdb
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.csprojResolveAssemblyReference.cache
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.Form1.resources
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.Properties.Resources.resources
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.csproj.GenerateResource.Cache
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.csproj.CoreCompileInputs.cache
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.exe
+C:\Users\afe\Desktop\PROJE4\Proje4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.pdb
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\bin\Debug\data.mdf
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\bin\Debug\data_log.ldf
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\bin\Debug\Arkadas.exe.config
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\bin\Debug\Arkadas.exe
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\bin\Debug\Arkadas.pdb
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.csprojResolveAssemblyReference.cache
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.Form1.resources
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.Properties.Resources.resources
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.csproj.GenerateResource.Cache
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.csproj.CoreCompileInputs.cache
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.exe
+C:\Users\afe\Desktop\projee4\Arkadas - Kopya - Kopya - Kopya - Kopya\Arkadas\obj\Debug\Arkadas.pdb
